@@ -1,0 +1,17 @@
+{
+  "name": "Kids Fun Learning World",
+  "short_name": "Kids World",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FFF7D6",
+  "theme_color": "#67D7FF",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./assets/images/star.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

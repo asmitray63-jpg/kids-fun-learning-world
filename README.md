@@ -1,33 +1,13 @@
-# 🎓 Kids Fun Learning World
+# Sound Effects
 
-> An interactive educational app designed to make learning fun, engaging, and enjoyable for kids.
+The app generates child-safe sound effects with the Web Audio API so it works offline in WebView and Chrome without downloading files.
 
-## 🌟 About the Project
+Optional production sound files can be added here:
 
-**Kids Fun Learning World** is an educational mobile application created to make learning more interactive and enjoyable for children.
+- `tap.mp3`
+- `success.mp3`
+- `pop.mp3`
+- `win.mp3`
+- `soft-background-loop.mp3`
 
-The project focuses on combining **education, interaction, and fun** in a kid-friendly digital experience.
-
-## ✨ Features
-
-- 🎮 Fun and interactive learning experience
-- 📚 Educational content for kids
-- 🧩 Engaging activities
-- 🎨 Kid-friendly interface
-- 📱 Mobile-focused experience
-- 🚀 Designed with simple and accessible interactions
-
-## 🛠️ Technology
-
-> Technologies used in the project will be documented here.
-
-## 📱 Screenshots
-
-Screenshots of the application will be added here.
-
-## 🚀 Getting Started
-
-Clone the repository:
-
-```bash
-git clone https://github.com/asmitray63-jpg/kids-fun-learning-world.git
+Keep clips short, friendly, low volume, and royalty-free.
