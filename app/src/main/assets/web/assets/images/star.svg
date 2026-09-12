@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Reward star">
+  <path d="M60 9l14 33 36 3-27 24 8 35-31-18-31 18 8-35-27-24 36-3z" fill="#ffd166" stroke="#f89b29" stroke-width="6" stroke-linejoin="round"/>
+  <circle cx="47" cy="55" r="5" fill="#24304f"/>
+  <circle cx="73" cy="55" r="5" fill="#24304f"/>
+  <path d="M47 72c8 8 18 8 26 0" fill="none" stroke="#24304f" stroke-width="5" stroke-linecap="round"/>
+</svg>

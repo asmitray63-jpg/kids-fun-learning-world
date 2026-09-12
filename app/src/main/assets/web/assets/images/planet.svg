@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" role="img" aria-label="Learning planet">
+  <circle cx="90" cy="90" r="62" fill="#64d66e"/>
+  <path d="M28 95c32-22 87-40 133-30 10 2 13 15 4 21-38 25-98 39-144 28-10-3-11-14-3-19z" fill="#67d7ff"/>
+  <path d="M45 64c15 7 27 6 38-6M105 120c19 7 34 3 45-10" fill="none" stroke="#24304f" stroke-width="7" stroke-linecap="round" opacity=".35"/>
+  <circle cx="65" cy="78" r="7" fill="#24304f"/>
+  <circle cx="110" cy="78" r="7" fill="#24304f"/>
+  <path d="M70 101c13 10 28 10 41 0" fill="none" stroke="#24304f" stroke-width="7" stroke-linecap="round"/>
+</svg>

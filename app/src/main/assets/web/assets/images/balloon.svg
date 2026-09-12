@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 160" role="img" aria-label="Cartoon balloon">
+  <ellipse cx="60" cy="52" rx="42" ry="48" fill="#ff5d8f"/>
+  <ellipse cx="44" cy="34" rx="11" ry="17" fill="#ffbdd0" opacity=".8"/>
+  <path d="M50 98h20l-10 15z" fill="#d93f71"/>
+  <path d="M60 113c-18 18 18 29 0 46" fill="none" stroke="#7b6c8d" stroke-width="4" stroke-linecap="round"/>
+</svg>
